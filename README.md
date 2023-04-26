@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lemnnyscate
-- 👀 I’m interested in blockchains and cryptocurrencies
+- 👀 I’m interested in blockchain and cryptocurrencies
 - 🌱 I’m currently learning Solidity and smart contract audit
 - 💞️ I’m looking to collaborate on blockchain dev
 - 📫 How to reach me : Twitter
