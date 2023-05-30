@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lemnnyscate
+- 👋 Hi, I’m @0xLenny
 - 👀 I’m interested in blockchain and cryptocurrencies
 - 🌱 I’m currently learning Solidity and smart contract audit
 - 💞️ I’m looking to collaborate on blockchain dev
